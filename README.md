@@ -129,3 +129,11 @@ Email: krishnaik06@gmail.com
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+# 8. Results:
+- Integrated google/pegasus transformer model from Hugging Face learning with robust data pipelines.
+- Trained google/pegasus model on SamSum dataset using Hugging Face’s, with tailored to enhance model performance.
+- Evaluated model effectiveness with ROUGE metrics (ROUGE-1: 0.021, ROUGE-2: 0.0, ROUGE-L: 0.021, ROUGE-Lsum:
+0.021) using Python and PyTorch.
+  Implemented a CI/CD pipeline with GitHub Actions and deployed a Dockerized FastAPI app on AWS (EC2, ECR, IAM)
+for scalable production services.
