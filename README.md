@@ -135,5 +135,5 @@ Email: krishnaik06@gmail.com
 - Trained google/pegasus model on SamSum dataset using Hugging Face’s, with tailored to enhance model performance.
 - Evaluated model effectiveness with ROUGE metrics (ROUGE-1: 0.021, ROUGE-2: 0.0, ROUGE-L: 0.021, ROUGE-Lsum:
 0.021) using Python and PyTorch.
-  Implemented a CI/CD pipeline with GitHub Actions and deployed a Dockerized FastAPI app on AWS (EC2, ECR, IAM)
+- Implemented a CI/CD pipeline with GitHub Actions and deployed a Dockerized FastAPI app on AWS (EC2, ECR, IAM)
 for scalable production services.
